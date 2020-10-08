@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Naginator</string>
+    <string name="greeting">Stop being a slacker! Add a new task!</string>
+    <string name="new_task">New Task</string>
+    <string name="task_name">Task Name</string>
+    <string name="start_time">Start Time</string>
+</resources>
